@@ -20,7 +20,7 @@ repository_url = "https://github.com/FancyWaste/hihi"
 username = "FancyWaste"
 repository = "hihi"
 branch = "main"  # 通常是 'main' 或 'master'
-local_data_dir = "hihi"  # 存储图片和文本文件的本地文件夹
+local_data_dir = "."  # 存储图片和文本文件的本地文件夹
 
 # 确保本地文件夹存在
 if not os.path.exists(local_data_dir):
