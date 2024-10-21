@@ -16,8 +16,8 @@ import io
 import textwrap
 
 # GitHub 仓库页面 URL 和信息
-repository_url = "https://github.com/saookami/hihi"
-username = "saookami"
+repository_url = "https://github.com/FancyWaste/hihi"
+username = "FancyWaste"
 repository = "hihi"
 branch = "main"  # 通常是 'main' 或 'master'
 local_data_dir = "hihi"  # 存储图片和文本文件的本地文件夹
